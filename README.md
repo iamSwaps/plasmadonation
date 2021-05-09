@@ -1,4 +1,5 @@
-# plasmadonation
+# PlasmaDonation
+plasma-donation.infinityfreeapp.com
 
 An simple app to keep track of plasma.
 
