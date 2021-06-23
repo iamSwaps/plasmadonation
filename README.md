@@ -1,11 +1,19 @@
 # PlasmaDonation
-plasma-donation.infinityfreeapp.com
+Hi, I have created a website to help COVID-19 patients find plasma. Here is [Live Demo](http://plasma-donation.infinityfreeapp.com)
 
-An simple app to keep track of plasma.
+## What is this?
+An Web application to keep track of plasma.
 
-Users can add their info if they want to donate plasma and they can also search for plasma based on their blood group.
+Users can add their information if they want to donate plasma and patients can search for plasma based on their blood group.
 One can search his blood group and directly contact to donor.
 
+## Features
 Admin access is provided to edit database when required.
 
-This webapp is build using PHP, HTML, Bootstrap, mySQL. 
+
+## Technology used
+- PHP
+- HTML
+- Bootstrap
+- MySQL 
+
